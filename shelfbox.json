@@ -1,13 +1,13 @@
 {
-  "version": "0.9.2",
+  "version": "0.9.3",
   "description": "Keep local files—notes, AI context, personal configs, and secrets—visible in your editor but out of Git.",
   "homepage": "https://github.com/masa-kjm/shelfbox",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/masa-kjm/shelfbox/releases/download/v0.9.2/shelfbox-v0.9.2-x86_64-pc-windows-msvc.zip",
+      "url": "https://github.com/masa-kjm/shelfbox/releases/download/v0.9.3/shelfbox-v0.9.3-x86_64-pc-windows-msvc.zip",
       "hash": "e6f844fe7b58f03a18d5361fd17077c69f6b3a0532cd4b409a2751b8e1b830bc",
-      "extract_dir": "shelfbox-v0.9.2-x86_64-pc-windows-msvc"
+      "extract_dir": "shelfbox-v0.9.3-x86_64-pc-windows-msvc"
     }
   },
   "bin": [
