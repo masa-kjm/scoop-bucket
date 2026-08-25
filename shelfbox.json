@@ -6,7 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/masa-kjm/shelfbox/releases/download/v0.9.3/shelfbox-v0.9.3-x86_64-pc-windows-msvc.zip",
-      "hash": "e6f844fe7b58f03a18d5361fd17077c69f6b3a0532cd4b409a2751b8e1b830bc",
+      "hash": "1e79da3d981f916f5f7decc4927d38c9846b9daf9c8fc464eae700171feb43fb",
       "extract_dir": "shelfbox-v0.9.3-x86_64-pc-windows-msvc"
     }
   },
